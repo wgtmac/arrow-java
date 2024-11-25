@@ -37,7 +37,7 @@ Please make sure to [reference the issue](https://docs.github.com/en/issues/trac
 
 Any functionality change should have a GitHub issue opened. For minor changes that
 affect documentation, you do not need to open up a GitHub issue. Instead you can
-prefix the title of your PR with "MINOR: " if meets one of the following:
+prefix the title of your PR with "MINOR: " if it meets one of the following:
 
 *  Grammar, usage and spelling fixes that affect no more than 2 files
 *  Documentation updates affecting no more than 2 files and not more
