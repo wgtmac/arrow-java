@@ -43,8 +43,8 @@ CMakeLists.txt  @lidavidm @laurentgo @wgtmac
 /dev/  @lidavidm @laurentgo @wgtmac @kou
 
 # PR CI and repository files
-/.github/                @lidavidm @laurentgo @wgtmac
-.asf.yaml                @lidavidm @laurentgo @wgtmac
+/.github/                @lidavidm @laurentgo @wgtmac @kou
+/.asf.yaml               @lidavidm @laurentgo @wgtmac @kou
 /.env                   @lidavidm @laurentgo @wgtmac
 /.pre-commit-config.yaml @lidavidm @laurentgo @wgtmac
 /Brewfile                @lidavidm @laurentgo @wgtmac
