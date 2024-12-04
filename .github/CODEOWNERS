@@ -39,8 +39,8 @@
 CMakeLists.txt  @lidavidm @laurentgo @wgtmac
 
 # release scripts
-/ci/   @lidavidm @laurentgo @wgtmac
-/dev/  @lidavidm @laurentgo @wgtmac
+/ci/   @lidavidm @laurentgo @wgtmac @kou
+/dev/  @lidavidm @laurentgo @wgtmac @kou
 
 # PR CI and repository files
 /.github/                @lidavidm @laurentgo @wgtmac
