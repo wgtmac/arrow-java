@@ -19,6 +19,8 @@
 
 set -eu
 
+SOURCE_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
 if [ "$#" -ne 2 ]; then
   echo "Usage: $0 <version> <rc>"
   echo " e.g.: $0 19.0.1 1"
